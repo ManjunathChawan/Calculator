@@ -13,4 +13,4 @@
 * Factorial
 
 
-#### Developed for learning purposes. New java learners can easlily understand how calculator works by this small and simple app.
+#### Developed for learning purposes.
